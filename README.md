@@ -2,7 +2,7 @@
 #Hi I'm TitleKung 🌓
 ## 💫 About Me:
 I am a university student studying computer science with big dreams of being a **Fontend Developer** 💻 and in other positions.🌟 <br><br> 
-- 📌 **:** I am a human being who likes learning technology , code and trying to do new things. [Look at the projects.](https://title-kung.netlify.app/)<br>
+- 📌 **:** I am a human being who likes learning technology , code and trying to do new things. [Look at the projects.](https://github.com/TitleKung-01)<br>
 - 💬 **:** My native language is Thai. Please don't criticize me for my  grammar.<br>I'm a fontend developer and I Study About I'm learning about writing a website.
 
 
