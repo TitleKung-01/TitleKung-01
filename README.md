@@ -14,4 +14,3 @@ I am a university student studying computer science with big dreams of being a *
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TitleKung-01&icon=7&color=6)](https://visitcount.itsvg.in)
