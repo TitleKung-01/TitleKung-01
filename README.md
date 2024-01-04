@@ -16,4 +16,4 @@ I am a university student studying computer science with big dreams of being a *
 ---
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=titlekung-01&show_icons=true&locale=en&layout=compact" alt="titlekung-01" /></span>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/TitleKung-01/Data-Structure-and-Algorithms)
