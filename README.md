@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://titlekung-01.vercel.app">
+  <a href="https://titlekung-resume.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://discord.com/users/suntimer.tle">
